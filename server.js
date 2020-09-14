@@ -1,5 +1,3 @@
-import Radar from 'radar-sdk-js'
-
 const fs = require('fs');
 const http = require('http');
 const path = require('path');
